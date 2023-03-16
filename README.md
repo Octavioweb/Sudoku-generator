@@ -1,6 +1,6 @@
 # Sudoku-generator
 
-Simple python algorithm to generate a NxN size sudoku. Recursivity applied. 
+Simple python algorithm to generate a NxN size sudoku. Recursive algorithm
 
 ## Introduction
 
